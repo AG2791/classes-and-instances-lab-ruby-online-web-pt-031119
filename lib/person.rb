@@ -1,1 +1,3 @@
-Def Person
+Class Person
+
+
